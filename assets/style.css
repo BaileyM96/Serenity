@@ -26,20 +26,12 @@ h1 {
     color: black;
 }
 
-.innerPeace {
-    display: flex;
-    padding-left: 70px;
+.card-body {
+    background-color: #BBC9C4;
 }
 
-.peaceText {
-    justify-items: center;
-    text-align: center;
-    flex-wrap: wrap;
-}
-
-#joinSerenity {
+#join {
     background-color: #E88077;
-    outline: none;
 }
 
 
