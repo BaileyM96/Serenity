@@ -2,3 +2,47 @@
     padding: 0px;
     margin: 0px;
 }
+
+.mainBody {
+    background-color: #BBC9C4;
+}
+
+h1 {
+    padding: 40px;
+    font-weight: bolder;
+    padding-left: 45px;
+}
+
+.collapse {
+    display: flex;
+    justify-content: end;
+}
+
+.navbar-nav {
+    padding-right: 40px;
+}
+
+.nav-link {
+    color: black;
+}
+
+.innerPeace {
+    display: flex;
+    padding-left: 70px;
+}
+
+.peaceText {
+    justify-items: center;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+#joinSerenity {
+    background-color: #E88077;
+    outline: none;
+}
+
+
+
+
+
