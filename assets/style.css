@@ -3,6 +3,7 @@
     margin: 0px;
 }
 
+
 .mainBody {
     background-color: #BBC9C4;
 }
@@ -24,6 +25,11 @@ h1 {
 
 .nav-link {
     color: black;
+}
+
+.card img {
+    width: 8rem;
+    
 }
 
 .card-body {
